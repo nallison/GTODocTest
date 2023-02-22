@@ -15,5 +15,5 @@ Contact Neil at nallison@ieee.org or neil@avon-tech-solutions.co.nz
 - [x]  Set up auto creation of pages from repo <https://nallison.github.io/GTODocTest/>
 - [ ]  Create docs outline / index page
 - [ ]  Set up PDF output of Quick Start Guide page
-- [ ]  Get collaborators set up to contruibute and review the material.  Perhaps use PRs?
+- [ ]  Get collaborators set up to contribute and review the material.  Perhaps use PRs?
 - [ ]  Consider adding a theme or styling <https://pages.github.com/themes/>
