@@ -7,7 +7,7 @@ This repo automagically generates web help pages at https://nallison.github.io/G
 
 A placeholder Wiki for this repo has also been set up at: https://github.com/nallison/GTODocTest/wiki
 
-Contact Neil at nallison@ieee.org or neil@avon-tech-solutions.co.nz wuth any comments, suggestions or if you'd like to contribute.
+Contact Neil at nallison@ieee.org or neil@avon-tech-solutions.co.nz with any comments, suggestions or if you'd like to contribute.
 
 # ToDo
 
