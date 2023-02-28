@@ -23,7 +23,7 @@ Your first job is to login and update your personal account details. Click the l
 
 If you own a private glider please update your glider details. From the Main page, open the "REPORTS & ADMIN" panel at the bottom and click "Manage Gliders".
 
-![Main Manage Gliders](../images/GTO_ManageGliders.png)
+![Main Manage Gliders](/images/GTO_ManageGliders.png)
 
 Scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details: 
 
