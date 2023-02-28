@@ -16,3 +16,4 @@ GTO is a replacement for GlideTime, but being online it is also much more. This 
 * Membership details management
 * Flight logbooks
 * Reporting
+
