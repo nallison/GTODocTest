@@ -27,4 +27,4 @@ If you own a private glider please update your glider details. From the Main pag
 
 Scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details: 
 
-![Edit Glider](../images/GTO_EditGlider.png)
+![Edit Glider](/images/GTO_EditGlider.png)
