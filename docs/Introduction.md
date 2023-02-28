@@ -9,7 +9,7 @@ Two primary objectives for the Canterbury Gliding Club instance are to:
 
 GTO is a replacement for GlideTime, but being online it is also much more. This is a tool for everybody, not just a tool for today's Duty pilot. Here is a list of the big features:
 * Flight timing and billing
-* Flight Follow with automatic [gliding.net.nz/tracker](http://gliding.net.nz/tracker): <http://gliding.net.nz/tracker> integration.
+* Flight Follow with automatic [Gliding New Zealand tracking system](https://gliding.net.nz/tracking) integration.
 * Bookings
 * Operational notices
 * Instruction notes & progression
