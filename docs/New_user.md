@@ -15,16 +15,16 @@ GTO uses a three letter billing code for pilots. Much like PB, CC and MQ identif
 # First Login
 Once your account is setup you can login and you will arrive at the Main page:
 
-![GTO Member is Logged in](./images/GTO_Member_LoggedIn.png)
+![GTO Member is Logged in](../images/GTO_Member_LoggedIn.png)
 
 Your first job is to login and update your personal account details. Click the link in your three letter billing code in the top right corner of the screen.  Now you can update various contact details:
 
-![GTO Member Details](./images/GTO_Member_Details.png)
+![GTO Member Details](../images/GTO_Member_Details.png)
 
 If you own a private glider please update your glider details. From the Main page, open the "REPORTS & ADMIN" panel at the bottom and click "Manage Gliders".
 
-![Main Manage Gliders](./images/GTO_ManageGliders.png)
+![Main Manage Gliders](../images/GTO_ManageGliders.png)
 
 Scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details: 
 
-![Edit Glider](./images/GTO_EditGlider.png)
+![Edit Glider](../images/GTO_EditGlider.png)
