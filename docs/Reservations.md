@@ -47,7 +47,7 @@ From the  Reservation section of the Main page, click the New Flight button and 
 
 Click the Save buton and you are returned to the Main page where your new reservation is listed:
 
-![Main with Reservation](./images/GTO_Main_Reservation_Saved.png)
+![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png)
 
 ___
 [Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GlideTime Online Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Wiki Version)](https://github.com/nallison/GTODocTest/wiki) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Web Version)](https://nallison.github.io/GTODocTest/)
