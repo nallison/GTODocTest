@@ -26,3 +26,6 @@ Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/
     1. [LAST 30 DAYS](./Last_30_days.md) 
     1. [REPORTS & ADMIN](./Reports_admin.md)
 
+
+___
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GlideTime Online Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Wiki Version)](https://github.com/nallison/GTODocTest/wiki) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Web Version)](https://nallison.github.io/GTODocTest/)
