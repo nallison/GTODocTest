@@ -1,6 +1,8 @@
-# GlideTime Online Help & Documentation
+# GlideTime Online Help & Documentation (Web version)
 
 This is the index page for a strawman GlideTime Online (GTO) Help system for the Canterbury Gliding Club.
+
+Please compare the usefulness of this "Web Version" to the "Wiki Version" https://github.com/nallison/GTODocTest/wiki
 
 Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/gto "The new and best way to record CGC time logs").
 
