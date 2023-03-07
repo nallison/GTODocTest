@@ -52,5 +52,29 @@ Click the Save buton and you are returned to the Main page where your new reserv
 
 ![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png)
 
+## More details about the Reservation Rules
+
+The rules are desgned to  meet the instructor and student requirements while still handling a number of "corner cases" including Trial Flights and Group Winching Days.
+
+1. Multiple bookings with the same P1/date/glider are considered as a single booking.  This allows a student (or Duty pilots) to pre-enter multiple flight intentions.  The assumption is this is a single hour's flying as per normal club operations.
+
+1. Pilots are limited to one club glider booking at a time.  You can not book both days of a weekend.  This is to allow other students a chance to book.  Instructors/Admin can override this limit and place the booking.
+
+1. Trial flights are a special case.  They have no booking limits.  They are not waitlisted.  Should a trial flight be counted as part of the rostered instructors workload limit?
+
+1. Non club glider bookings have no restriction.
+
+1. For a number of reasons a flight can be tagged as "Waitlisted".  From GTO's point of view, these flights can still be entered/edited/flown as normal.  As normal, the duty instructor on the day will decide who can fly & when.
+
+1. OR/PR are primary training gliders, on any day they can handle 3 instruction bookings per rostered instructor.  Beyond that, instruction flights can be booked but they will be tagged as "Waitlisted".
+
+1. Instruction has priority on OR/PR.  Non-instruction flights in OR/PR are always marked as "Waitlisted" if any rostered instruction is booked for that day.  Even if the non-instruction flight was booked first.
+
+1. All other club gliders are limited to one booking per day.  Beyond that, flights can be booked but they will be tagged as "Waitlisted".
+
+1. GTO assumes one instructor is available unless an "Extra instructor" is set in the Session/Duty page.  Then two instructors are available.
+
+1. Beyond the two rostered instructors, flights can be specifically assigned an alternate instructor.  These flights will not be counted as part of the rostered instructor limits.
+
 ___
 [Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GlideTime Online Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Wiki Version)](https://github.com/nallison/GTODocTest/wiki) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Web Version)](https://nallison.github.io/GTODocTest/)
