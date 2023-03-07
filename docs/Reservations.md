@@ -21,6 +21,7 @@ The club has had increased requests for a booking system and the GTO reservation
 A prime issue is that Instructors have no control over their workload for the day and it only takes one random show on a day to scupper their plans. So, we need to limit the total number of students to three per instructor to allow a good 2 hour session for each pilot. We need a way for members to book an instructor on a first come, first served basis. Once three pilots have reserved an instructor, future pilots making a reservation will be added to a waiting list.  If there is a waiting list we intend that the Duty Instructor attempts to get additional instructor/s to help. If no additional instructor is available, then the duty instructor notifies the waiting list that there is no additional instructor and they will have to find another day (but at least they have not wasted a trip to the airfield).
 
 GTO will apply the agreed rules to reservations:
+
 1. Student signup list - limited to three per instructor.
 1. Bookings should be made 24 hours before the day, otherwise a "Late Booking" tag is added.
 1. Pilots may only book once per day.
@@ -30,11 +31,13 @@ GTO will apply the agreed rules to reservations:
 ### Members wishing to book club gliders for their own use
 
 The Club wants to encourage members to get out flying and many pilots have requested the ability to book a club glider.  After much discussion, the following gliders should be available to book for a **day** (i.e. we will not split the day further):
+
 * CC
 * MQ
 * PB (There is a proviso that PB can be used for flight training between 10am and 12pm. However the duty instructor would notify someone who had booked PB).
 
 Again, GTO will apply the agreed rules to reservations:
+
 1. You can only book one aircraft per day.
 1. **TBD** Bookings close 12 hours before the day or are tagged as a Late Booking.
 1. Bookings can be made up to **TBD**/five days in advance.
