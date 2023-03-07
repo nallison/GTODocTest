@@ -30,7 +30,7 @@ This clears the Yellow Bar and resets the timer.
 
 ## Overdue Glider
 
-In accordance with the Club SOPs and Emergency Plan, a glider that has not had an automated position report or manual Ops Normap for more than one hour is deemed overdue and is displayed with a red bar:
+In accordance with the Club SOPs and Emergency Plan, a glider that has not had an automated position report or manual Ops Normal for more than one hour is deemed overdue and is displayed with a red bar:
 
 ![Overdue Aircraft](./assets/images/GTO_Overdue.png)
 
