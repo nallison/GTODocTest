@@ -52,6 +52,8 @@ Click the Save buton and you are returned to the Main page where your new reserv
 
 ![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png)
 
+![Here's some Waitlisted Reservations](./assets/images/GTO_Reservation_Waitlisted.png)
+
 ## More details about the Reservation Rules
 
 The rules are desgned to  meet the instructor and student requirements while still handling a number of "corner cases" including Trial Flights and Group Winching Days.
