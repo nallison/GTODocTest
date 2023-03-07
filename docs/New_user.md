@@ -15,7 +15,7 @@ GTO uses a three letter billing code for pilots. Much like PB, CC and MQ identif
 # First Login
 Once your account is setup you can login and you will arrive at the Main page:
 
-![GTO Member is Logged in](./assets/images/GTO_Login_Member.png)
+![GTO Member is Logged in](./assets/images/GTO_Member_LoggedIn.png)
 
 Your first job is to login and update your personal account details. Click the link in your three letter billing code in the top right corner of the screen.  Now you can update various contact details:
 
