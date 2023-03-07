@@ -1,11 +1,11 @@
 # Flight Following
 
-The club Standard Operating Procedures (SOPs) specify the detail the requirements for Operations Normal "Ops Normal" calls and position reporting:
+The club Standard Operating Procedures (SOPs) specify the requirements for Operations Normal "Ops Normal" calls and position reporting:
 
 > All pilots, when on soaring flights of more than thirty minutes, must give an "Ops Normal" radio call.
 This call is to be made approximately every thirty minutes and is to be directed to the appropriate Glider Base. The call will be timed and recorded on receipt. The call will include, as a minimum, approximate position and height.
 
-Further, gliders need to use a tracking system to provide automated position reporting:
+Additionally, glider pilots need to use a tracking system, such as Spot, Garmin Inreach, ADSB, or mobile phone tracking, to provide automated position reporting:
 
 > a) A working SPOT or ADS-B transponder is to be used on all flights by club gliders and private gliders operated by CGC members from Springfield aerodrome.
 >
