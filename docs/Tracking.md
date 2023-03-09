@@ -1,1 +1,0 @@
-GTO provides semi-automated flight following by collecting glider position information for airborne gliders from the Gliding New Zealand tracking site every 5 minutes.
