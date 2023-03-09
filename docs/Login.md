@@ -13,3 +13,6 @@ This is the web page you land on: you need to enter your credentials for either 
 ## How do I get Credentials to log in?
 
 If you haven't registered then please follow the instructions in the [New User page](./New_user)
+
+___
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)

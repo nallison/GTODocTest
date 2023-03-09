@@ -79,4 +79,4 @@ The rules are desgned to  meet the instructor and student requirements while sti
 1. Beyond the two rostered instructors, flights can be specifically assigned an alternate instructor.  These flights will not be counted as part of the rostered instructor limits.
 
 ___
-[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GlideTime Online Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Wiki Version)](https://github.com/nallison/GTODocTest/wiki) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GlideTime Online Help - (Web Version)](https://nallison.github.io/GTODocTest/)
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)

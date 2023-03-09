@@ -35,3 +35,6 @@ In accordance with the Club SOPs and Emergency Plan, a glider that has not had a
 ![Overdue Aircraft](./assets/images/GTO_Overdue.png)
 
 If you are able to contact the aircraft and get a satisfactory position report, enter a manual Ops Normal record which will clear the Overdue status and reset the Ops Normal timer.
+
+___
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)

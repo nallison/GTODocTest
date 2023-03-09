@@ -35,3 +35,6 @@ If you own a private glider please update your glider details. From the Main pag
 Scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details:
 
 ![Edit Glider](./assets/images/GTO_EditGlider.png)
+
+___
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)
