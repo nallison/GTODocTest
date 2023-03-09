@@ -27,4 +27,4 @@ Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/
     1. [REPORTS & ADMIN](./Reports_admin)
 
 ___
-[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help)](https://gto.walls.net.nz:4443/gtodocs/)
+[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)
