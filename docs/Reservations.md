@@ -52,6 +52,8 @@ Click the Save buton and you are returned to the Main page where your new reserv
 
 ![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png)
 
+Here is the Main page showing multiple reservations including some that are waitlisted:
+
 ![Here's some Waitlisted Reservations](./assets/images/GTO_Reservation_Waitlisted.png)
 
 ## More details about the Reservation Rules

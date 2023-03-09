@@ -19,7 +19,8 @@ Every five minutes GTO obtains positions for flying giders from the [Gliding New
 
 ## Recording a Manual Ops Normal
 
-Clicking either "Ops Normal" button presents a page where you enter the details of the Ops Normal report.  
+Clicking either "Ops Normal" button presents a page where you enter the details of the Ops Normal report.
+  
 ![Click Ops Normal Button](./assets/images/GTO_YellowBar_Manual_OpsNormal_Button.png)
 
 Ideally include location and altitude and any other relevant details from the pilot:
