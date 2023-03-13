@@ -14,6 +14,7 @@ Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/
     1. [Contacts](./Contacts.md)
 1. Getting Started
     1. [Login](./Login.md)
+    1. [Tips and Tricks}](./Tips.md)
     1. [New User](./New_user.md)
     1. [Launching and Landing a flight](./New_flight.md)
     1. [Flight Following and Ops Normals](./Flight_following.md)
