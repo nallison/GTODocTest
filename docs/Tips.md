@@ -14,7 +14,7 @@ Here's a list of helpful hints, tips and tricks to help you make the most of GTO
 
 ## How to copy a flight {#Tip01}
 
-## Click header to go to home {Tip02}
+## Click header to go to home {#Tip02}
 
 ## Hover over pilot billing tag to see name
 
