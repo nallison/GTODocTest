@@ -2,9 +2,19 @@
 
 Here's a list of helpful hints, tips and tricks to help you make the most of GTO.
 
-## How to copy a flight
+1. [How to copy a flight](#Tip01)
+2. [Click header to go to home](#Tip02)
+1. Hover over pilot billing tag to see name
+1. Hover over time icon to see flight times
+1. Delete unflown flight to avoid nag emails
+1. "GNZ tracking working" msg on flights before launch
+1. Adjusting flight times when you forgot
+1. Using gto to call or email somebody.
 
-## Click header to go to home
+
+## How to copy a flight {#Tip01}
+
+## Click header to go to home {Tip02}
 
 ## Hover over pilot billing tag to see name
 
