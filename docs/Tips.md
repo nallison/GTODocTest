@@ -1,4 +1,4 @@
-# HiTips and Tricks
+# Tips and Tricks
 
 Here's a list of helpful hints, tips and tricks to help you make the most of GTO.
 
