@@ -14,7 +14,7 @@ Here's a list of helpful hints, tips and tricks to help you make the most of GTO
 
 ## "GNZ tracking working" message on flights before launch
 
-Once a flight is entered, and before it is launched, GTO will display the "GNZ tracking working" message if it is receiving tracking positions from the [Gliding New Zealand tracking system](https://gliding.net.nz/tracking)
+Once a flight is entered, and before it is launched, GTO will display the "GNZ tracking working" message tracking positions are being received for this glider from [Gliding New Zealand tracking system](https://gliding.net.nz/tracking)
 
 ![GNZ Tracking Working](./assets/images/GTO_GNZ_Tracking_Working.png)
 
