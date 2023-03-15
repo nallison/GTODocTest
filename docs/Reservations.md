@@ -46,15 +46,15 @@ Again, GTO will apply the agreed rules to reservations:
 
 From the  Reservation section of the Main page, click the New Flight button and you are presented with a form to enter the details of your reservation.  As a minimum, include the date, glider and your name:
 
-![Reservation form](./assets/images/GTO_Reservation.png)
+![Reservation form](./assets/images/GTO_Reservation.png){:.screenshot}
 
 Click the Save buton and you are returned to the Main page where your new reservation is listed:
 
-![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png)
+![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png){:.screenshot}
 
 Here is the Main page showing multiple reservations including some that are waitlisted:
 
-![Here's some Waitlisted Reservations](./assets/images/GTO_Reservation_Waitlisted.png)
+![Here's some Waitlisted Reservations](./assets/images/GTO_Reservation_Waitlisted.png){:.screenshot}
 
 ## More details about the Reservation Rules
 
@@ -79,6 +79,3 @@ The rules are desgned to  meet the instructor and student requirements while sti
 1. GTO assumes one instructor is available unless an "Extra instructor" is set in the Session/Duty page.  Then two instructors are available.
 
 1. Beyond the two rostered instructors, flights can be specifically assigned an alternate instructor.  These flights will not be counted as part of the rostered instructor limits.
-
-___
-[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)

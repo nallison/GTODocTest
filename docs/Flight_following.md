@@ -15,17 +15,17 @@ Additionally, glider pilots need to use a tracking system, such as Spot, Garmin 
 
 Every five minutes GTO obtains positions for flying giders from the [Gliding New Zealand tracking system](https://gliding.net.nz/tracking).  If more than 30 minutes have passed since an automated position report is received then the Today section of the Main page highlights the Glider that needs a Manual Ops Normal recorded:
 
-![Manual Ops normal required](./assets/images/GTO_YellowBar_Manual_OpsNormal.png)
+![Manual Ops normal required](./assets/images/GTO_YellowBar_Manual_OpsNormal.png){:.screenshot}
 
 ## Recording a Manual Ops Normal
 
 Clicking either "Ops Normal" button presents a page where you enter the details of the Ops Normal report.
   
-![Click Ops Normal Button](./assets/images/GTO_YellowBar_Manual_OpsNormal_Button.png)
+![Click Ops Normal Button](./assets/images/GTO_YellowBar_Manual_OpsNormal_Button.png){:.screenshot}
 
 Ideally include location and altitude and any other relevant details from the pilot:
 
-![Ops Normal Form](./assets/images/GTO_Ops_Normal.png)
+![Ops Normal Form](./assets/images/GTO_Ops_Normal.png){:.screenshot}
 
 This clears the Yellow Bar and resets the timer.
 
@@ -33,9 +33,6 @@ This clears the Yellow Bar and resets the timer.
 
 In accordance with the Club SOPs and Emergency Plan, a glider that has not had an automated position report or manual Ops Normal for more than one hour is deemed overdue and is displayed with a red bar:
 
-![Overdue Aircraft](./assets/images/GTO_Overdue.png)
+![Overdue Aircraft](./assets/images/GTO_Overdue.png){:.screenshot}
 
 If you are able to contact the aircraft and get a satisfactory position report, enter a manual Ops Normal record which will clear the Overdue status and reset the Ops Normal timer.
-
-___
-[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)

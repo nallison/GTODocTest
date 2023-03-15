@@ -1,0 +1,3 @@
+# Apache web server directives to manage access
+Options -Indexes
+Options +MultiViews

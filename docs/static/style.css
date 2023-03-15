@@ -1,0 +1,59 @@
+body
+{
+  padding: 0px;
+  margin: 0px;
+}
+
+#container
+{
+	padding:8px;
+}
+
+#footer
+{
+	padding-left:16px;
+	padding-right:16px;
+}
+#banner
+{
+	width:100%;
+	min-width:600px;
+	height:80px;
+	background-color:#eaf1fb;
+	background-image:url('https://gto.walls.net.nz:4443/gto/static/images/logbook.png');
+	background-size:auto 80px;
+	background-repeat:no-repeat;
+	background-position: right center;
+	font-size:32px;
+	font-weight:bold;
+	color:black;
+	text-shadow:2px 2px 4px rgba(0,0,0,0.4);
+}
+
+
+h3
+{
+   color: #153460; 
+}
+
+#body
+{
+	vertical-align : top;
+    width : 75%;
+	float : left;
+}
+
+.screenshot
+{
+	width : 80%;
+}
+
+#sidebar
+{
+	vertical-align : top;
+    width : 25%;
+	height : 100%;
+    background-color : #FEE;
+    color : black;
+	float : left;
+}

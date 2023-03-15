@@ -22,19 +22,16 @@ GTO uses a three letter billing code for pilots. Much like PB, CC and MQ identif
 
 Once your account is setup you can login and you will arrive at the Main page:
 
-![GTO Member is Logged in](./assets/images/GTO_Member_LoggedIn.png)
+![GTO Member is Logged in](./assets/images/GTO_Member_LoggedIn.png){:.screenshot}
 
 Your first job is to login and update your personal account details. Click the link in your three letter billing code in the top right corner of the screen.  Now you can update various contact details:
 
-![GTO Member Details](./assets/images/GTO_Member_Details.png)
+![GTO Member Details](./assets/images/GTO_Member_Details.png){:.screenshot}
 
 If you own a private glider please update your glider details. From the Main page, open the "REPORTS & ADMIN" panel at the bottom and click "Manage Gliders".
 
-![Main Manage Gliders](./assets/images/GTO_ManageGliders.png)
+![Main Manage Gliders](./assets/images/GTO_ManageGliders.png){:.screenshot}
 
 Scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details:
 
-![Edit Glider](./assets/images/GTO_EditGlider.png)
-
-___
-[Canterbury Gliding Club](https://canterburyglidingclub.nz/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GTO Home](https://canterburyglidingclub.nz/gto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GTO Help](https://gto.walls.net.nz:4443/gtodocs/)
+![Edit Glider](./assets/images/GTO_EditGlider.png){:.screenshot}
