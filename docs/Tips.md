@@ -10,6 +10,10 @@ Here's a list of helpful hints, tips and tricks to help you make the most of GTO
 
 ## Hover over pilot billing tag to see name
 
+Do you need to know the person's name for a three letter billing tag?  Hover the mouse pointer over the tag and the name will be displayed.
+
+![Hover over billing code](./assets/images/GTO_Hover_Billing_Tag.png){:.screenshot}
+
 ## Hover over time icon to see flight times
 
 ## Delete unflown flight to avoid nag emails
