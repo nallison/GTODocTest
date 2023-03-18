@@ -15,5 +15,6 @@
     1. [RESERVATIONS](./Reservations)
     1. [LAST 30 DAYS](./Last_30_days)
     1. [REPORTS & ADMIN](./Reports_admin)
+        1. [Monthly Billing](./MonthlyBilling)
 1. Flight Following
     1. [Tracking](./Tracking)

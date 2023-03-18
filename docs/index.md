@@ -26,3 +26,4 @@ Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/
     1. [RESERVATIONS](./Reservations.md)
     1. [LAST 30 DAYS](./Last_30_days)
     1. [REPORTS & ADMIN](./Reports_admin)
+        1. [Monthly Billing](./MonthlyBilling.md)
