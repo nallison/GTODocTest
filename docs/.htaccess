@@ -1,3 +1,5 @@
 # Apache web server directives to manage access
 Options -Indexes
 Options +MultiViews
+DirectoryIndex Introduction.html
+ErrorDocument 404 /404.html
