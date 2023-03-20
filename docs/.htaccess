@@ -2,4 +2,4 @@
 Options -Indexes
 Options +MultiViews
 DirectoryIndex Introduction.html
-ErrorDocument 404 404.html
+ErrorDocument 404 /gtodocs/404.html
