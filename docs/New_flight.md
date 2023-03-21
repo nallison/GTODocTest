@@ -14,7 +14,7 @@ Hovering over the flight bar causes the **Copy flight** and **Edit flight** icon
 
 ![Under tow](./assets/images/GTO_Launched_Hover_Edit.png){:.screenshot}
 
-Clicking **Edit flight** allows adding missing, or fixing incorrect, details as necessary.
+Clicking **Edit flight** allows adding missing, or fixing incorrect, details as necessary.  If a flight is mistakenly launched it can be "unlaunched" or reset to the Intentions List by setting the Launch time back to 00:00:00.
 
 ## Landing the Tow Plane
 
