@@ -6,7 +6,7 @@
     1. [Login](Login)
     1. [New User](./New_user)
     1. [Updating my user details](./User_details)
-1. GlideTime Online Page Areas
+1. GlideTime Online Screen Areas
     1. [Overview](./Overview)
     1. [NOTICES](./Notices)
     1. [TODAY](./Today)
