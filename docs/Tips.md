@@ -30,4 +30,12 @@ Once a flight is entered, and before it is launched, GTO will display the "GNZ t
 
 ## Adjusting flight times when you forgot
 
+Highlight the flight record bar of the flight that needs adjusting, whether airborne or landed as in this example, and click the **Edit flight** icon, here circled in red:
+
+![Edit Flight](./assets/images/GTO_GliderLanded-Edit.png){:.screenshot}
+
+Now, edit the **Launch**, **Towplane landing**  and/or **Glider landing** times in the **Times** section of the window:
+
+![Edit Times](./assets/images/GTO_Edit_Towplane_Landing.png){:.screenshot}
+
 ## Using GTO to call or email somebody
