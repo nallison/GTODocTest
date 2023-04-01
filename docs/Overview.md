@@ -4,9 +4,9 @@ This is the Main or Home screen of GTO that is displayed once you log in:
 
 ![GTO Member is Logged in](./assets/images/GTO_Member_LoggedIn.png){:.screenshot}
 
-The **NOTICES** panel is always displayed on the main screen and after logging in the **TODAY** panel is displayed (expanded).  Each of the **TODAY**, **RESERVATION**, **LAST 30 DAYS** and **REPORTS & ADMIN** sections may be expanded or collapsed by clicking on the arrow on the right hand end of their title bar.
+The **[NOTICES](Notices.md)** panel is always displayed on the main screen.  Each of the **[TODAY](Today.md)**, **[RESERVATION](Reservations.md)**, **[LAST 30 DAYS](Last_30_days.md)** and **[REPORTS & ADMIN](Reports_Admin.md)** sections may be expanded or collapsed by clicking on the arrow on the right hand end of their title bar.
 
-The footer of each page has links to the CGC homepage, the Main (Home) screen of GTO, an email link to contact Alan, the GTO webmaster, and a link to the GTO help and documentation.
+The footer of each page has links to the [CGC homepage](https://canterburyglidingclub.nz/), the [Main (Home) screen of GTO](https://canterburyglidingclub.nz/gto), an email link to contact Alan, the GTO webmaster, and a link to the [GTO help and documentation](https://gto.walls.net.nz:4443/gtodocs/).
 
 ## Click header to go to home
 
