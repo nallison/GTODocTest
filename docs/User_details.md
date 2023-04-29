@@ -14,8 +14,12 @@ You are able to upload a photo or image to replace the default one.  Ideally thi
 
 Please keep these fields up to date as they are a primary reference for our club administration.
 
+Please add a telephone number for next-of-kin or an emergency contact, several members have added that person's name and relationship in the More info: field.
+
 ## Admin and Instructor Fields
 
 Please email an admin or the webmaster to update those fields that you cannot edit, for example Membership and Billing types.
 
-An instructor may be able to edit the Status fields including  Rating.
+An instructor may be able to edit the Status fields including Rating and Medical expiry date.  You can upload an image of your medical declaration  using the link at the bottom of the page. 
+
+![Upload Medical](./assets/images/GTO_Member_Details_Status.png){:.screenshot}
