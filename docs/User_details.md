@@ -19,4 +19,3 @@ Please keep these fields up to date as they are a primary reference for our club
 Please email an admin or the webmaster to update those fields that you cannot edit, for example Membership and Billing types.
 
 An instructor may be able to edit the Status fields including  Rating.
-.
