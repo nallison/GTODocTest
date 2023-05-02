@@ -4,6 +4,10 @@ Here's a list of helpful hints, tips and tricks to help you make the most of GTO
 
 # Tips and Tricks
 
+## How to Add a New Member
+
+Go to the [REPORTS & ADMIN](./Reports_admin) section of the main page and click the **New Member** button at the bottom of the page.
+
 ## How to copy a flight
 
 ## Click header to go to home
