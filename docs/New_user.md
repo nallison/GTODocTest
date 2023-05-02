@@ -16,7 +16,7 @@ To get started please email the GTO webmaster <awalls@walls.net.nz> and send thr
 
 ### Adding a New Member at the Airfield
 
-GTO has a membership editting mode that allows full editing for the day the member was created.  Go to [REPORTS & ADMIN](./Reports_admin) and  click the **New member** button at the bottom of the page.  
+GTO has a membership editing mode that allows full editing for the day the member was created.  Go to [REPORTS & ADMIN](./Reports_admin) and click the **New member** button at the bottom of the page.  
 
 Once your account has been set up, GTO will email you a password to get you started. You can set your own password later if you want.
 

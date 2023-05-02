@@ -12,7 +12,9 @@ Some reports, such as the [Monthly Billing](./MonthlyBilling.md) are only availa
 
 ### Manage Gliders
 
-This area provides pages to **Manage Gliders**, including adding a new (or visiting) glider to the database by clicking the **New Glider** button at the bottom of the page as well as updating information about existing gliders.
+This area provides pages to **Manage gliders**, including adding a new (or visiting) glider to the database.
+
+First, click the **Manage gliders** button to go to the list of known gliders. Click the **New Glider** button at the bottom of the page to add a new aircraft.
 
 To update a glider's data, scroll to the glider you wish to update and click the Edit Glider button on the right hand side and edit the details:
 
@@ -20,8 +22,8 @@ To update a glider's data, scroll to the glider you wish to update and click the
 
 ### Add a New Member
 
-A very important feature is adding a **New Member** by clicking the button at the bottom of this page.  GTO has a membership editting mode that allows full editing for the day the member was created.  That allows a duty pilot to enter and update new member details at various points during a day, e.g. create a membership when the pilot is having a chat with an instructor then later complete more details.
+A very important feature is adding a **New Member** by clicking the button at the bottom of this page.  GTO has a membership editing mode that allows full editing for the day the member was created.  That allows a duty pilot to enter and update new member details at various points during a day, e.g. create a membership when the pilot is having a chat with an instructor then later complete more details.
 
 ![New Member](./assets/images/GTO_New_Member.png){:.screenshot}
 
-More information is in [New User](./New_user)
+More information is in the [New User](./New_user) page.
