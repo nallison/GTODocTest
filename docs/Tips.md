@@ -10,11 +10,15 @@ Go to the [REPORTS & ADMIN](./Reports_admin) section of the main page and click 
 
 ## How to copy a flight
 
+Highlight the flight of interest and click the **Copy Flight** button.  This will make a new flight record and open it in the Edit Flight page for you to update the details.
+
+![Copy FLight](./assets/images/GTO_Copy_Flight.png){:.screenshot}
+
 ## Click header to go to home
 
 From any page in GTO, simply click on the GlideTime Online header image at the top of the page to go to the Main (Home) screen:
 
-![Click the header](./assets/images/GTO_Click_Header.png){:.screenshot}
+![Click the header](./assets/images/GTO_Click_Header_Snippet.png){:.screenshot}
 
 ## Hover over pilot billing tag to see name
 
@@ -43,3 +47,19 @@ Now, edit the **Launch**, **Towplane landing**  and/or **Glider landing** times 
 ![Edit Times](./assets/images/GTO_Edit_Towplane_Landing.png){:.screenshot}
 
 ## Using GTO to call or email somebody
+
+## How to split the cost of a flight
+
+In the [New Flight](./New_flight.md) or Edit Flight form there is an option to set the **Bill To** field to:
+
+- P1 pays: the normal (default) situation where Pilot1 listed on the flight record pays.  Here, P1 is not (necessarily) synonymous with Pilot in Command.
+
+- P2 pays: when the Pilot2 on the flight record pays.  For example you fly with Terry or Michael in an ASH25 and you pay the launch and landing fees.
+
+- 50/50 split: equally shared.
+
+- Club pilots: bill the flight to this member's flying account.  For example you get another pilot or instructor to take a family member for a flight and you will be paying at normal club rates.
+
+What about if Pilot1 and Pilot2 wants to split the cost some other way or P2 wants to pay for 5 minutes of a long tow?  GTO doesn't support this: please sort it out between yourselves.
+
+![Bill To](./assets/images/GTO_Bill_To.png){:.screenshot})
