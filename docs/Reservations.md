@@ -46,11 +46,11 @@ Again, GTO will apply the agreed rules to reservations:
 
 From the  Reservation section of the Main page, click the New Flight button and you are presented with a form to enter the details of your reservation.  As a minimum, include the date, glider and your name:
 
-![Reservation form](./assets/images/GTO_Reservation.png){:.screenshot}
+![Reservation form](./assets/images/GTO_New_Flight_Reservation.png){:.screenshot}
 
 Click the Save buton and you are returned to the Main page where your new reservation is listed:
 
-![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved.png){:.screenshot}
+![Main with Reservation](./assets/images/GTO_Main_Reservation_Saved_2.png){:.screenshot}
 
 Here is the Main page showing multiple reservations including some that are waitlisted:
 
