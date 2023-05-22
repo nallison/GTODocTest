@@ -1,31 +1,18 @@
-# Launching & Landing Flights
+# Create a New Flight
 
-## Launching
+Use the **New Flight** button to create a new [RESERVATION](./Reservations.md) for a future date or a flight for [TODAY](./Today.md).
 
-The flying list of planned flights appears in the *Intention - Springfield* list of the [TODAY](./Today) section of the main page.  To launch one of these flights click the **Launch** button for the flight of interest.
+![New Flight](./assets/images/GTO_New_Flight_Button.png){:.screenshot}
 
-When the mouse pointer hovers over a flight row, it is highlighted and the icons to **Copy flight** or **Edit flight** appear:
+## Adding the New FLight Details
 
-![Highlight a flight](./assets/images/GTO_Launch_Hover1.png){:.screenshot}
+After clicking the **New Flight** button you are presented with a form to enther the details of the flight.  As a minimum set the date, the glider and the pilot name.  
 
-Once launched the flight bar updates to appear in the *Flying - Springfield* list and also shows the active Towplane.  
+![New Reservation](./assets/images/GTO_New_Flight_Reservation.png){:.screenshot}
 
-Hovering over the flight bar causes the **Copy flight** and **Edit flight** icons to appear.
-
-![Under tow](./assets/images/GTO_Launched_Hover_Edit.png){:.screenshot}
-
-Clicking **Edit flight** allows adding missing, or fixing incorrect, details as necessary.  If a flight is mistakenly launched it can be "unlaunched" or reset to the Intentions List by setting the Launch time back to 00:00:00.
-
-## Landing the Tow Plane
-
-Click the button to **Land DYT** (in this example).  
-
-If the tow takeoff or landing times need adjusting then highlight the flight bar and click the **Edit flight** icon.  Next, edit the **Launch** and/or **Towplane landing** times in the **Times** section of the window:
-
-![Edit Times](./assets/images/GTO_Edit_Towplane_Landing.png){:.screenshot}
-
-## Landing the Glider
-
-Click the **Land ...** for the appropriate glider.  The completed flight then appears in the *Landed - Springfield* list, where any details may be edited if necessary:
-
-![Landed](./assets/images/GTO_GliderLanded.png){:.screenshot}
+Additional fields and prompts may be shown depending on:
+- If it is for today or a future date.
+- If the booking is considered late when comparing today's date and the reservation date.
+![Late Booking](./assets/images/GTO_Late_Booking.png){:.screenshot}
+- If you already have a reservation for that weekend.
+![Already Have a Booking](./assets/images/GTO_P1_Has_a_Booking.png){:.screenshot}
