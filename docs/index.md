@@ -25,6 +25,7 @@ Go to the GTO homepage here [GlideTime Online](https://canterburyglidingclub.nz/
     1. [REPORTS & ADMIN](./Reports_admin)
         1. [Monthly Billing](./MonthlyBilling.md)
 1. Using GlideTime Online
+    1. [New Flight](./New_flight)
     1. [Tips & Tricks](./Tips.md)
-    1. [Launching & Landing Flights](./New_flight.md)
+    1. [Launching & Landing Flights](./Launching_Landing.md)
     1. [Flight Following & Ops Normal](./Flight_following.md)
