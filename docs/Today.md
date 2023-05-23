@@ -12,7 +12,7 @@ Click either **Session/Duty** button to fill this in:
 
 ![Session Data](./assets/images/GTO_Session_Data.png){:.screenshot}
 
-Now the **TODAY** section shows the flying list which will automatically be populated with any reservations that have been made for today.  Click the **Session/Duty** button to edit the day's data or comments at any time during the day.  Click the [New Flight](./New_flight) button to enter a flight to the flying list.
+Now the **TODAY** panel shows the flying list which will automatically be populated with any reservations that have been made for today.  Click the **Session/Duty** button to edit the day's data or comments at any time during the day.  Click the [New Flight](./New_flight) button to enter a flight to the flying list.
 
 ![Today](./assets/images/GTO_Today_Session_Added.png){:.screenshot}
 
@@ -24,10 +24,10 @@ The club requires flight takeoffs and landings are recorded.  How GTO provides f
 
 We provide flight following for gliders launched during club operations.  GTO automates the collection of postion information provided by Spot, Inreach, ADSB and cellphone tracking from the GNZ tracking system.  This is explained in [Flight Following & Ops Normal](./Flight_following).
 
-The **TODAY** section highlights any gliders that need to provide a manual Ops Normal with yellow shading:
+The **TODAY** panel highlights any gliders that need to provide a manual Ops Normal with yellow shading:
 
 ![Today Yellow Bar](./assets/images/GTO_Today_YellowBar.png){:.screenshot}
 
-If there is no automated position report or manual Ops Normal for more than one hour then the **TODAY** section shows a red bar, lists the essential next steps and highlights the aircraft concerned:
+If there is no automated position report or manual Ops Normal for more than one hour then the **TODAY** panel shows a red bar, lists the essential next steps and highlights the aircraft concerned:
 
 ![Today Overdue](./assets/images/GTO_Today_Overdue.png){:.screenshot}

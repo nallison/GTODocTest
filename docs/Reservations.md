@@ -1,8 +1,6 @@
 # Reservations
 
-***This page is incomplete and under review, clarification and editing.  The content may change daily or perhaps more often.***
-
-Also known as Bookings, the Reservations page is where you make and amend your aircraft and instruction requests and you can see what other reservations have been made.
+Also known as Bookings, the Reservations panel is where you make and amend your aircraft and instruction requests and you can see what other reservations have been made.
 
 ## Why do we need Reservations?
 
