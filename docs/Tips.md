@@ -12,7 +12,7 @@ The "Launch" and "Land" buttons will only work for Duty mode.  For Member login 
 
  A "Duty mode" switch has been added to allow you to enable these buttons in "Member login" mode.
 
- ![Duty mode on](./assets/images/GTO_Duty_mode_on.png){:.screeenshot}  
+![Duty mode on](./assets/images/GTO_Duty_mode_on.png){:.screeenshot}
 
 ## How to Add a New Member
 
