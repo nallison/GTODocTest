@@ -4,15 +4,25 @@ Here's a list of helpful hints, tips and tricks to help you make the most of GTO
 
 # Tips and Tricks
 
+## Why can't I Launch or Land a flight?
+
+The "Launch" and "Land" buttons will only work for Duty mode.  For Member login mode, the Launch and Land Buttons are inactive (greyed out) to prevent accidentally launching or landing an aircraft from your phone or home computer.  
+
+![Duty mode off](./assets/images/GTO_Duty_mode_off.png){:.screenshot}
+
+ A "Duty mode" switch has been added to allow you to enable these buttons in "Member login" mode.
+
+ ![Duty mode on](./assets/images/GTO_Duty_mode_on.png){:.screeenshot}
+
 ## How to Add a New Member
 
-Go to the [REPORTS & ADMIN](./Reports_admin) section of the main page and click the **New Member** button at the bottom of the page.
+Go to the [REPORTS & ADMIN](./Reports_admin) panel of the main page and click the **New Member** button at the bottom of the page.
 
 ## How to copy a flight
 
 Highlight the flight of interest and click the **Copy Flight** button.  This will make a new flight record and open it in the Edit Flight page for you to update the details.
 
-![Copy FLight](./assets/images/GTO_Copy_Flight.png){:.screenshot}
+![Copy Flight](./assets/images/GTO_Copy_Flight.png){:.screenshot}
 
 ## Click header to go to home
 
