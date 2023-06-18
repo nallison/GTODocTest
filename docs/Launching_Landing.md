@@ -1,5 +1,7 @@
 # Launching & Landing Flights
 
+The Launnh and Land buttons only work for Duty login mode.  See this tip [Why can't I Launch or Land a flight?](./Tips#why-cant-i-launch-or-land-a-flight)
+
 ## Launching
 
 The flying list of planned flights appears in the *Intention - Springfield* list of the [TODAY](./Today) section of the main page.  To launch one of these flights click the **Launch** button for the flight of interest.
