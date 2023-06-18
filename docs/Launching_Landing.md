@@ -1,6 +1,6 @@
 # Launching & Landing Flights
 
-The Launnh and Land buttons only work for Duty login mode.  See this tip [Why can't I Launch or Land a flight?](./Tips#why-cant-i-launch-or-land-a-flight)
+The Launch and Land buttons only work for Duty login mode.  See this tip [Why can't I Launch or Land a flight?](./Tips#why-cant-i-launch-or-land-a-flight)
 
 ## Launching
 
