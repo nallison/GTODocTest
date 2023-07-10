@@ -36,3 +36,9 @@ In accordance with the Club SOPs and Emergency Plan, a glider that has not had a
 ![Overdue Aircraft](./assets/images/GTO_Overdue.png){:.screenshot}
 
 If you are able to contact the aircraft and get a satisfactory position report, enter a manual Ops Normal record which will clear the Overdue status and reset the Ops Normal timer.
+
+## Stationary Tracker - Check for Landout
+
+If the two most recent postions are within 50 m of each other then GTO highlights the glider's icon in magenta and the **TODAY** panel shows a magenta bar:
+
+![Today Landout](./assets/images/GTO_Today_Landout.png){:.screenshot}
