@@ -13,7 +13,7 @@ Additionally, glider pilots need to use a tracking system, such as Spot, Garmin 
 >
 > c) If SPOT or ADS-B tracking fails during flight, the pilot must give position reports at least every 30 minutes to a suitable person on the ground stating position and intentions. A suitable person on the ground means someone who will initiate SAR action if the glider becomes overdue.
 
-Every five minutes GTO obtains positions for flying giders from the [Gliding New Zealand tracking system](https://gliding.net.nz/tracking).  If more than 30 minutes have passed since an automated position report is received then the Today section of the Main page highlights the Glider that needs a Manual Ops Normal recorded:
+Every two minutes GTO obtains positions for flying giders from the [Gliding New Zealand tracking system](https://gliding.net.nz/tracking).  If more than 30 minutes have passed since an automated position report is received then the Today section of the Main page highlights the Glider that needs a Manual Ops Normal recorded:
 
 ![Manual Ops normal required](./assets/images/GTO_YellowBar_Manual_OpsNormal.png){:.screenshot}
 
@@ -39,6 +39,10 @@ If you are able to contact the aircraft and get a satisfactory position report, 
 
 ## Stationary Tracker - Check for Landout
 
-If the two most recent postions are within 50 m of each other then GTO highlights the glider's icon in magenta and the **TODAY** panel shows a magenta bar:
+If a minimum of two, or all of the points GTO gets within the last five minutes, are within 50 m of each other then GTO highlights the glider's icon in magenta and the **TODAY** panel shows a magenta bar:
 
 ![Today Landout](./assets/images/GTO_Today_Landout.png){:.screenshot}
+
+For Spot and InReach devices with a slow reporting rate it could be more like 20 to 40 minutes to get two similar positions before GTO highlights a land out.  
+
+If you do land out you need to keep your tracker on and in the glider for GTO to notice the landout.  Going for a walk with your tracker in your pocket will clear the GTO landout status.  The Spot and InReach preset landout messages sent with the OK, Help and Custom buttons are not considered when GTO determines if a glider has landed out.
