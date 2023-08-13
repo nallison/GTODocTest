@@ -16,7 +16,7 @@ A "Duty mode" switch has been added to allow you to enable these buttons in "Mem
 
 ## How to Add a New Member
 
-Go to the [REPORTS & ADMIN](./Reports_admin) panel of the main page and click the **New Member** button at the bottom of the page.
+Go to the [REPORTS & ADMIN](./Reports_admin.md) panel of the main page and click the **New Member** button at the bottom of the page.
 
 ## How to copy a flight
 
