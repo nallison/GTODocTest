@@ -22,7 +22,7 @@ The club requires flight takeoffs and landings are recorded.  How GTO provides f
 
 ## Flight Following
 
-We provide flight following for gliders launched during club operations.  GTO automates the collection of postion information provided by Spot, Inreach, ADSB and cellphone tracking from the GNZ tracking system.  This is explained in [Flight Following & Ops Normal](./Flight_following).
+We provide flight following for gliders launched during club operations.  GTO automates the collection of postion information provided by Spot, Inreach, ADSB and cellphone tracking from the GNZ tracking system.  This is explained in [Flight Following & Ops Normal](./Flight_following.md).
 
 The **TODAY** panel highlights any gliders that need to provide a manual Ops Normal with yellow shading:
 
