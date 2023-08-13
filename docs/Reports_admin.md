@@ -26,4 +26,4 @@ A very important feature is adding a **New Member** by clicking the button at th
 
 ![New Member](./assets/images/GTO_New_Member.png){:.screenshot}
 
-More information is in the [New User](./New_user) page.
+More information is in the [New User](./New_user.md) page.
