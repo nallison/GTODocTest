@@ -1,10 +1,10 @@
 # Launching & Landing Flights
 
-The Launch and Land buttons only work for Duty login mode.  See this tip [Why can't I Launch or Land a flight?](./Tips#why-cant-i-launch-or-land-a-flight)
+The Launch and Land buttons only work for Duty login mode.  See this tip [Why can't I Launch or Land a flight?](./Tips.md#why-cant-i-launch-or-land-a-flight)
 
 ## Launching
 
-The flying list of planned flights appears in the *Intention - Springfield* list of the [TODAY](./Today) section of the main page.  To launch one of these flights click the **Launch** button for the flight of interest.
+The flying list of planned flights appears in the *Intention - Springfield* list of the [TODAY](./Today.md) section of the main page.  To launch one of these flights click the **Launch** button for the flight of interest.
 
 When the mouse pointer hovers over a flight row, it is highlighted and the icons to **Copy flight** or **Edit flight** appear:
 
