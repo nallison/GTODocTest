@@ -24,7 +24,7 @@ GTO will apply the agreed rules to reservations:
 1. Bookings should be made 24 hours before the day, otherwise a "Late Booking" tag is added.
 1. Pilots may only book once per day.
 1. Additional bookings are wait listed, up to a maximum of three (i.e. another instructor).
-1. Students don't book a glider, just a Grob 103.
+1. While students book a glider as OR or PR, it is intended that they booked a Grob G103 and the aircraft may be interchanged by the Duty Instructor.
 
 ### Members wishing to book club gliders for their own use
 
@@ -37,8 +37,7 @@ The Club wants to encourage members to get out flying and many pilots have reque
 Again, GTO will apply the agreed rules to reservations:
 
 1. You can only book one aircraft per day.
-1. **TBD** Bookings close 12 hours before the day or are tagged as a Late Booking.
-1. Bookings can be made up to **TBD**/five days in advance.
+1. Bookings made on the day of the flight are tagged as a Late Booking.
 
 ## Making a Reservation
 
@@ -56,7 +55,7 @@ Here is the Main page showing multiple reservations including some that are wait
 
 ## More details about the Reservation Rules
 
-The rules are desgned to  meet the instructor and student requirements while still handling a number of "corner cases" including Trial Flights and Group Winching Days.
+The rules are desgned to  meet the instructor and student requirements while still handling a number of "corner cases" including Trial Flights and Group Winching Days.  Ideally, GTO will have a minimum number of hard restrictions.  Instead, it is preferable for the club to rely on etiquette and peer pressure to manage things.  This is because we will almost always be able to think of reasonable exceptions to hard rules.
 
 1. Multiple bookings with the same P1/date/glider are considered as a single booking.  This allows a student (or Duty pilots) to pre-enter multiple flight intentions.  The assumption is this is a single hour's flying as per normal club operations.
 
@@ -77,3 +76,5 @@ The rules are desgned to  meet the instructor and student requirements while sti
 1. GTO assumes one instructor is available unless an "Extra instructor" is set in the Session/Duty page.  Then two instructors are available.
 
 1. Beyond the two rostered instructors, flights can be specifically assigned an alternate instructor.  These flights will not be counted as part of the rostered instructor limits.
+
+1. The "Late booking" and "Waitlisting" tags are hints for instructors to help them manage the etiquette and their workload.  They are not a restriction from GTO's point of view.
