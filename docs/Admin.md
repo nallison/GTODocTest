@@ -5,7 +5,7 @@
 	1. Billing Rules 
 1. Server Management
 	1. Overview
-	1. Remote login
+	1. [Server SSH](./Admin_Server_SSH.md)
 	1. Backup
 	1. Cron tasks
 1. The Database
